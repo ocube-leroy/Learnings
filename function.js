@@ -1,1 +1,1 @@
-var onClick
+var onClick = "Goke";
